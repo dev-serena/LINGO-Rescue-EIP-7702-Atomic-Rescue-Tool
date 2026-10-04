@@ -39,7 +39,7 @@ Sponsor wallet
 ## Install
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/lingo-rescue.git or download repo
+git clone https://github.com/dev-serena/lingo-rescue.git or download repo
 cd lingo-rescue
 npm install
 ```
