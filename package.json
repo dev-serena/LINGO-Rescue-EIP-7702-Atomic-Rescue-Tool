@@ -1,0 +1,32 @@
+{
+  "name": "lingo-rescue-v3",
+  "version": "1.0.0",
+  "description": "EIP-7702 atomic rescue tool for LINGO tokens on Base mainnet",
+  "type": "module",
+  "scripts": {
+    "rescue": "node rescue.js",
+    "intercept": "node intercept.js",
+    "watch": "node watcher.js"
+  },
+  "dependencies": {
+    "viem": "2.21.54",
+    "dotenv": "16.4.5"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/lingo-rescue.git"
+  },
+  "keywords": [
+    "eip7702",
+    "base",
+    "lingo",
+    "rescue",
+    "ethereum",
+    "wallet-rescue"
+  ]
+}

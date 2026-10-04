@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment — NEVER commit private keys
+.env
+
+# Compiled
+out/
+RescueExecutor.bytecode
+
+# OS
+.DS_Store
+Thumbs.db
